@@ -1,4 +1,4 @@
-// Server code contains the basic system calls which include socket(),listen(),bind(),accept()
+// Server code contains the basic system calls which include socket(),listen(),bind(),accept().
 // The basic server code to handle the client request and forward it to the mirror server if the server is overloaded.This is for load balancing.
 
 #include <stdio.h>
